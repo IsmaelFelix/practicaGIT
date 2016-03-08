@@ -1,0 +1,12 @@
+Descripcion
+
+Requisitos funcionales 
+
+requisitos no funcionales
+
+Conclusiones
+_____________
+El sisrema esta implementado
+
+Ejemplo
+_______________
