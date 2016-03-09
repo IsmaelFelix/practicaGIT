@@ -10,3 +10,5 @@ El sisrema esta implementado
 
 Ejemplo
 _______________
+
+Exte es un ejemplo de una practica git subida al github
